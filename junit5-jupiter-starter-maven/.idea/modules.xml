@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/junit5-jupiter-starter-maven.iml" filepath="$PROJECT_DIR$/junit5-jupiter-starter-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit5-jupiter-starter-maven-jitpack.iml" filepath="$PROJECT_DIR$/junit5-jupiter-starter-maven-jitpack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit5-jupiter-starter-maven-snapshot.iml" filepath="$PROJECT_DIR$/junit5-jupiter-starter-maven-snapshot.iml" />
+    </modules>
+  </component>
+</project>
